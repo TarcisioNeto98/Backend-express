@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/TarcisioNeto98/Backend-express.git",
   "author": "Tarcisio Neto <tarcisioneto1998@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
