@@ -1,0 +1,8 @@
+{
+  "name": "backendexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TarcisioNeto98/Backend-express.git",
+  "author": "Tarcisio Neto <tarcisioneto1998@gmail.com>",
+  "license": "MIT"
+}
