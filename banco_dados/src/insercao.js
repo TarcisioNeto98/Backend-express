@@ -1,6 +1,6 @@
 const {Pool} = require('pg');
 
-var banco = new Pool({connectionString: 'postgres://postgres:neto1998@localhost:5432/escola'});
+var banco = new Pool({connectionString: process.env.URL});
 var texto = 'INSERT INTO teste.aluno VALUES ($1, $2, $3)';
 var valores = [25, 'Tarcisio Neto', 4];
 
